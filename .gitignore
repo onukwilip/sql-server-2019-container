@@ -1,0 +1,6 @@
+/azure-mssql-container-sqlserver1
+/data
+/logs
+/secrets
+/SQLServer1.0
+create-container.txt

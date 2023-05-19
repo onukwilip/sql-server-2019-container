@@ -1,0 +1,5 @@
+FROM mcr.microsoft.com/mssql/server:2019-latest
+WORKDIR /
+ENV MSSQL_SA_PASSWORD=Pa55w0rd
+ENV ACCEPT_EULA=Y
+EXPOSE 1433
